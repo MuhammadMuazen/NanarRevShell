@@ -1,3 +1,7 @@
+/*
+    This file holds all the file system functions
+*/
+
 use std::io::Write;
 
 pub fn get_current_dir() -> String {
