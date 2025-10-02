@@ -3,7 +3,7 @@
 version = 4
 
 [[package]]
-name = "nanar_revshell"
+name = "nanarc2_revshell"
 version = "0.1.0"
 dependencies = [
  "tasklist",

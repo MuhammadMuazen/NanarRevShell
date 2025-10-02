@@ -1,4 +1,4 @@
-use nanar_revshell::fs;
+use nanarc2_revshell::fs;
 
 fn main() {
 
